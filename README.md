@@ -9,5 +9,5 @@ We use and compare various different methods for sentiment analysis on tweets (a
 2. Pandas
 3. nltk (Natural Language Preprcoessing toolkit)
 
-#  
+All the data is uploaded on GitHub along code. Just download and run it.
 
